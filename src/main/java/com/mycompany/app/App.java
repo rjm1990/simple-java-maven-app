@@ -13,6 +13,8 @@ public class App
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
         System.out.println(111111L);
+        System.out.println(111111L);
+        System.out.println(111111L);
     }
 
     private final String getMessage() {
