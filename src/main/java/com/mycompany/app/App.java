@@ -16,7 +16,7 @@ public class App
         System.out.println(111111L);
         System.out.println(111111L);
         System.out.println(111111L);
-        System.out.println(111111L);
+        System.out.println(7777);
         System.out.println("888888");
     }
 
