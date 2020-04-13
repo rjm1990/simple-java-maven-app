@@ -15,6 +15,9 @@ public class App
         System.out.println(111111L);
         System.out.println(111111L);
         System.out.println(111111L);
+        System.out.println(111111L);
+        System.out.println(111111L);
+        System.out.println(22222L);
     }
 
     private final String getMessage() {
